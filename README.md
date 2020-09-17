@@ -16,14 +16,14 @@ Hi, I'm **ejiek** [ˈəlek].
 # SyncUp
 Some cultural stuff we might have in common:
 
-* Books: Discworld, [Harry Potter and the Methods of Rationality](http://www.hpmor.com/)
-* Series: Black Mirror, Rick and Morty
-* Music: Disturbed, Bonobo, Apollo Brown
-* [Podcasts](https://gpodder.net/user/ejiek/subscriptions)
-* Games: The Neverhood, Firewatch, Zelda: BOTW
-* Sports: Biking, Paragliding, Snowboarding, Climbing, Sailing
-* Food: [Khachapuri](https://en.wikipedia.org/wiki/Khachapuri)
-* Passion for free and open-source software & hardware
+* 📚 Books: Discworld, [Harry Potter and the Methods of Rationality](http://www.hpmor.com/)
+* 🎞️ Series: Black Mirror, Rick and Morty
+* 🎶 Music: Disturbed, Bonobo, Apollo Brown
+* 🎙️ [Podcasts](https://gpodder.net/user/ejiek/subscriptions)
+* 🕹️ Games: The Neverhood, Firewatch, Zelda: BOTW
+* 🏅 Sports: Biking 🚵, Paragliding 🪂, Snowboarding 🏂, Climbing 🧗, Sailing ⛵
+* 🍽️ Food: [Khachapuri](https://en.wikipedia.org/wiki/Khachapuri)
+* 🄯 Passion for free and open-source software & hardware
 
 # Nickname Backstory
 
