@@ -6,7 +6,7 @@ Hi, I'm **ejiek** [ˈəlek].
 * Teaching
 * Sharing ❤️️ for documentation and collaboration in general
 
-# Techmical stuff
+# Technical stuff
 
 * In love with [Rust](https://www.rust-lang.org/)
 * Automate myself out is the way
