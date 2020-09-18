@@ -17,7 +17,7 @@ Hi, I'm **ejiek** [ˈəlek].
 Some cultural stuff we might have in common:
 
 * 📚 Books: Discworld, [Harry Potter and the Methods of Rationality](http://www.hpmor.com/)
-* 🎞️ Series: Black Mirror, Rick and Morty
+* 🎞️ Series: Black Mirror, Rick and Morty, The Boys
 * 🎶 Music: Disturbed, Bonobo, Apollo Brown
 * 🎙️ [Podcasts](https://gpodder.net/user/ejiek/subscriptions)
 * 🕹️ Games: The Neverhood, Firewatch, Zelda: BOTW
