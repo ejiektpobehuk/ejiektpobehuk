@@ -21,7 +21,7 @@ Some cultural stuff we might have in common:
 * 🎶 Music: Disturbed, Bonobo, Apollo Brown
 * 🎙️ [Podcasts](https://gpodder.net/user/ejiek/subscriptions)
 * 🕹️ Games: The Neverhood, Firewatch, Zelda: BOTW
-* 🏅 Sports: Biking 🚵 Paragliding 🪂 Snowboarding 🏂 Climbing 🧗 Sailing ⛵
+* 🏅 Sports: Biking 🚵 Paragliding 🪂 Snowboarding 🏂 Climbing 🧗 Sailing ⛵ Scuba diving 🤿
 * 🍽️ Food: [Khachapuri](https://en.wikipedia.org/wiki/Khachapuri)
 * 🄯 Passion for free and open-source software & hardware
 
