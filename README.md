@@ -18,7 +18,7 @@ Some cultural stuff we might have in common:
 
 * 📚 Books: Discworld, [Harry Potter and the Methods of Rationality](http://www.hpmor.com/)
 * 🎞️ Series: Black Mirror, Rick and Morty, The Boys
-* 🎶 Music: Disturbed, Bonobo, Apollo Brown
+* 🎶 Music: [Water 4 The Soul](https://songwhip.com/gramatik/water-4-the-soul) by Gramatik, [Disturbed](https://songwhip.com/disturbed)
 * 🎙️ [Podcasts](https://gpodder.net/user/ejiek/subscriptions)
 * 🕹️ Games: The Neverhood, Firewatch, Zelda: BOTW
 * 🏅 Sports: Biking 🚵 Paragliding 🪂 Snowboarding 🏂 Climbing 🧗 Sailing ⛵ Scuba diving 🤿
