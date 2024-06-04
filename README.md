@@ -1,4 +1,4 @@
-Hi, I'm **ejiek** [ˈəlek].
+Hi, I'm **ejiek** [ˈəlek]. This is my backup account.
 
 # Day-to-day life
 
@@ -11,7 +11,7 @@ Hi, I'm **ejiek** [ˈəlek].
 * In love with [Rust](https://www.rust-lang.org/)
 * Automate myself out is the way
 * Absolutely loves tinkering with software and hardware
-* Daily drives Archlinux btw ([PinePhone](https://www.pine64.org/pinephone/) helps to do it on a phone scale)
+* ~Daily drives Archlinux btw ([PinePhone](https://www.pine64.org/pinephone/) helps to do it on a phone scale)~
 
 # SyncUp
 Some cultural stuff we might have in common:
@@ -40,7 +40,7 @@ Idea was that I'm rather agile, energetic and seen some stuff in the dark corner
 Venik's toughness represents persistence in achieving far from low hanging goals.
 
 ___
-*You can find out more about me at [ejiek.com](https://ejiek.com)*
+*You can find out more about me at [ejiek.id](https://ejiek.id)*
 <!--
 **ejiek/ejiek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
